@@ -1,0 +1,14 @@
+# Build output
+build
+
+# Environment variables file
+.env
+
+# Dependencies directory
+node_modules/
+
+# OS files
+.DS_Store
+
+# Vscode
+.vscode/*
